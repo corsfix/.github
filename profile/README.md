@@ -1,12 +1,20 @@
-## Hi there 👋
+# Corsfix – Fetch any resource without CORS Errors
 
-<!--
+[**Corsfix**](https://corsfix.com) makes it easy to fetch data from any domain without running into CORS errors. Add our endpoint before your resource URL and watch the requests just work, no more CORS errors.
 
-**Here are some ideas to get you started:**
+## Why Corsfix?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **No More CORS Errors.** Say goodbye to blocked requests. Start coding your web applications without hassle.
+- **Quick Setup.** Just prepend our URL to yours. You’re ready to go in seconds.
+- **Works on any Data.** Use it with APIs, images, JSON, videos—whatever data you need.
+- **Built for Real Apps.** Made for production use, so you can rely on it.
+
+## How to Use
+
+1. Take the URL you want to fetch.
+2. Add the Corsfix endpoint before it. `https://proxy.corsfix.com/?`
+3. Send your request and enjoy easy, error-free data fetching.
+
+---
+
+**Tired of CORS errors? [Try Corsfix](https://corsfix.com) and get back to building your app.**
