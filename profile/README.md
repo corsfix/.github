@@ -1,4 +1,4 @@
-# Corsfix – Fetch any resource without CORS Errors
+# Corsfix – Fast & Unlimited CORS Proxy
 
 [**Corsfix**](https://corsfix.com) makes it easy to fetch data from any domain without running into CORS errors. Add our endpoint before your resource URL and watch the requests just work, no more CORS errors.
 
